@@ -4,3 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This is complete"
 echo "this was run automagically"
+echo "This is a webhook test"
